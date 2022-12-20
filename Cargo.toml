@@ -1,8 +1,10 @@
 [package]
 name = "parsink"
 version = "0.1.0"
+description = "Parsing with weights"
+authors = ["Jamey Sharp <jamey@minilop.net>"]
+repository = "https://github.com/jameysharp/parsink"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+license = "GPL-3.0-or-later"
 
 [dependencies]
